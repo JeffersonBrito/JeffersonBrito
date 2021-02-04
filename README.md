@@ -1,7 +1,6 @@
 <a align="center">
 <!--Me segue pra trocarmos experiencias, Jefferson Brito-->
 
-![front end](https://user-images.githubusercontent.com/51340090/93032401-d7908c80-f607-11ea-8fce-0fd28501dffa.png)
 </a>
 
 ---
